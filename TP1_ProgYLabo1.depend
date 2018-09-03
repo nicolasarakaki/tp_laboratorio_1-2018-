@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1535959570 source:c:\users\user\desktop\dsa\tp1_progylabo1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1_Prototipos.h"
+
+1535996650 c:\users\user\desktop\dsa\tp1_progylabo1\tp1_prototipos.h
+
+1535992498 source:c:\users\user\desktop\dsa\tp1_progylabo1\funcionesmatematicas.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1_Prototipos.h"
+
+1535998528 source:c:\users\user\desktop\dsa\tp1_progylabo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fMath.h"
+	"tp1.h"
+
+1535998663 source:c:\users\user\desktop\dsa\tp1_progylabo1\fmath.c
+	<stdio.h>
+	<stdlib.h>
+	"fMath.h"
+
+1535998672 source:c:\users\user\desktop\dsa\tp1_progylabo1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+
+1535998508 c:\users\user\desktop\dsa\tp1_progylabo1\tp1.h
+
+1535998508 c:\users\user\desktop\dsa\tp1_progylabo1\fmath.h
+
