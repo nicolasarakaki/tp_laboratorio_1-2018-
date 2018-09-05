@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1536118501 source:c:\users\user\desktop\tp1\tp1\fmath.c
+	<stdio.h>
+	<stdlib.h>
+	"fMath.h"
+
+1536118676 c:\users\user\desktop\tp1\tp1\fmath.h
+
+1536128887 source:c:\users\user\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+
+1536128961 c:\users\user\desktop\tp1\tp1\tp1.h
+
+1536129095 source:c:\users\user\desktop\tp1\tp1\tp1.c
+	<stdio.h>
+	<stdlib.h>
+	"tp1.h"
+
